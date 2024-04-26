@@ -58,7 +58,7 @@
   <a href="https://linkedin.com/in/mohamad-khalili-b71949204">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="LinkedIn" width="150" />
   </a>
-  <a href="[https://twitter.com/yourusername](https://www.npmjs.com/~mdakh)">
+  <a href="https://www.npmjs.com/~mdakh">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="100" />
   </a>
 </p>
