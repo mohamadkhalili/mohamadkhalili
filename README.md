@@ -45,6 +45,7 @@
 
 ### 📊 GitHub Stats:
 
+![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&theme=tokyonight)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&locale=en&theme=tokyonight" alt="mohamadkhalili" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkhalili&theme=dark" alt="mohamadkhalili" />
