@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&locale=en&theme=radical" alt="mohamadkhalili" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&locale=en&theme=tokyonight" alt="mohamadkhalili" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkhalili&theme=dark" alt="mohamadkhalili" />
 </div>
 
