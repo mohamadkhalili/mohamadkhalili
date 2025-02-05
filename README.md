@@ -169,12 +169,13 @@ If you have a cool project you’d like me to check out, just open an issue or s
 ## Activity Graph
 
 <div align="center">
-  <!-- GitHub Readme Activity Graph -->
   <img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=mohamadkhalili&theme=react-dark"
     alt="Activity Graph"
+    style="width: 80%; max-width: 800px; height: auto; border-radius: 10px;"
   />
 </div>
+
 
 > This graph shows a quick overview of my contributions and collaborations in recent times.
 
