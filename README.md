@@ -33,7 +33,7 @@
   <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/Vue.js-2%20%7C%203-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Nuxt.js-2%20%7C%203-00dc82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-3%20%7C%204-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 <img 
   src="https://img.shields.io/badge/Vuetify-2%20%7C%203-1867c0?style=flat&logo=vuetify&logoColor=white" 
   alt="Vuetify 2 & 3" 
