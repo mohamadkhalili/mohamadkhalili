@@ -167,13 +167,8 @@ If you have a cool project you’d like me to check out, just open an issue or s
 ---
 
 ## Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=mohamadkhalili&theme=react-dark"
-    alt="Activity Graph"
-    style="width: 80%; max-width: 800px; height: auto; border-radius: 10px;"
-  />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamadkhalili&bg_color=2D3E50&color=52B983&line=52B983&point=F4F8FA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
