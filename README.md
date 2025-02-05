@@ -169,9 +169,6 @@ If you have a cool project you’d like me to check out, just open an issue or s
 ## Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamadkhalili&bg_color=2D3E50&color=52B983&line=52B983&point=F4F8FA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-> This graph shows a quick overview of my contributions and collaborations in recent times.
-
 ---
 
 ## GitHub Trophies
@@ -183,8 +180,6 @@ If you have a cool project you’d like me to check out, just open an issue or s
     alt="GitHub Trophies"
   />
 </div>
-
-> These trophies are a fun representation of my GitHub activity and milestones.
 
 ---
 
