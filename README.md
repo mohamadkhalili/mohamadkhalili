@@ -174,9 +174,8 @@ If you have a cool project you’d like me to check out, just open an issue or s
 ## GitHub Trophies
 
 <div align="center">
-  <!-- GitHub Profile Trophy -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mohamadkhalili&theme=onedark&row=1&column=7"
+  <img 
+    src="[https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB_USERNAME](https://github-profile-trophy.vercel.app/?username=mohamadkhalili&theme=dracula)>"
     alt="GitHub Trophies"
   />
 </div>
