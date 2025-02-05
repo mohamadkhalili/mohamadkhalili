@@ -11,17 +11,8 @@
   />
 </div>
 
-<p align="center">
-  <a href="https://github.com/mohamadkhalili">
-    <img src="https://komarev.com/ghpvc/?username=mohamadkhalili&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadkhalili" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/78690694?v=4" alt="coding" width="200">
-</div>
-
  <p>
+     <img src="https://avatars.githubusercontent.com/u/78690694?v=4" alt="coding" width="200">
     <img src="https://img.shields.io/badge/Vue.js-2%20%7C%203-42b883?style=flat&logo=vue.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Nuxt.js-2%20%7C%203-00dc82?style=flat&logo=nuxt.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
