@@ -1,71 +1,73 @@
 <!--
-##################################################
-#     ____                _   _                  #
-#    /___ \_   _  ___  __| | | |__   ___         #
-#   //  / / | | |/ _ \/ _` | | '_ \ / _ \        #
-#  / \_/ /| |_| |  __/ (_| | | | | |  __/        #
-#  \___,_\ \__,_|\___|\__,_| |_| |_|\___|        #
-#                                                #
-#      Make it bigger, fancier, and longer       #
-##################################################
+#############################################################
+#   __  __        _                                         #
+#  |  \/  |  ___  | |  ___   _ _   _ _   ___  _ __   ___     #
+#  | |\/| | / _ \ | | / -_) | '_| | '_| / -_)| '  \ / _ \    #
+#  |_|  |_| \___/ |_| \___| |_|   |_|   \___||_|_|_|\___/    #
+#                                                           #
+#    Make it longer, fancier, and all in English            #
+#############################################################
 -->
 
 <h1 align="center">
-  <!-- اگر دوست داشتید از یک ابزار تولید متن هنر ASCII استفاده کنید -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=34&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Mohamad+Khalili+%F0%9F%91%8B;A+Passionate+Frontend+Developer;Always+Learning+New+Things...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=34&center=true&vCenter=true&width=800&height=70&lines=Hello+World!+I'm+Mohamad+Khalili+%F0%9F%91%8B;A+Frontend+Dev+and+Vue.js+Enthusiast;Welcome+to+My+GitHub+Profile...">
 </h1>
 
 <div align="center">
-  <!-- می‌توانید یک بنر بلندتر یا GIF جایگزین کنید -->
+  <!-- Optionally, replace with a larger GIF or an image of your choice -->
   <a href="https://github.com/mohamadkhalili">
     <img 
-         src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
-         alt="banner"
-         width="800" 
-         style="border-radius: 10px;"/>
+      src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+      alt="banner"
+      width="800"
+      style="border-radius: 10px;"
+    />
   </a>
 </div>
 
 <div align="center">
-  <!-- نشان بازدید پروفایل -->
+  <!-- Profile Views -->
   <a href="https://github.com/mohamadkhalili">
     <img src="https://komarev.com/ghpvc/?username=mohamadkhalili&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <!-- برخی نشان‌های محبوب -->
-  <img src="https://img.shields.io/badge/Vue.js-2%20%7C%203-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-2%20%7C%203-00dc82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Vuetify-2.6-1867c0?style=flat&logo=vuetify&logoColor=white" alt="Vuetify"/>
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952b3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <!-- Tech Badges -->
+  <img src="https://img.shields.io/badge/Vue.js-2%20%7C%203-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Nuxt.js-2%20%7C%203-00dc82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vuetify-2.6-1867c0?style=flat&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952b3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
 ---
 
-## 📌 Table of Contents
-1. [About Me](#about-me)
+## 🔖 Table of Contents
+1. [Who Am I?](#who-am-i)
 2. [Tech Stack & Tools](#tech-stack--tools)
-3. [My Dev Journey](#my-dev-journey)
-4. [GitHub Stats](#github-stats)
-5. [Open Source Works](#open-source-works)
-6. [Activity Graph](#activity-graph)
-7. [GitHub Trophies](#github-trophies)
-8. [Support & Sponsor](#support--sponsor)
-9. [How to Reach Me](#how-to-reach-me)
-10. [Credits & Last Words](#credits--last-words)
+3. [My Development Journey](#my-development-journey)
+4. [Featured Projects](#featured-projects)
+5. [GitHub Stats](#github-stats)
+6. [Contributions & Open Source](#contributions--open-source)
+7. [Activity Graph](#activity-graph)
+8. [GitHub Trophies](#github-trophies)
+9. [Support & Sponsor](#support--sponsor)
+10. [How to Reach Me](#how-to-reach-me)
+11. [Extras & Fun Facts](#extras--fun-facts)
 
 ---
 
-## About Me
+## Who Am I?
 
-- 🔭 I’m currently working on **Vue 3 & Nuxt 3** projects.  
-- 🌱 I’m learning **advanced animations & state management**.  
-- 👯 I’m looking to collaborate on **open source projects**.  
-- 🤝 I’m looking for help with **complex CSS layouts**.  
-- 💬 Ask me about **Vue, Nuxt, Vuetify, TypeScript, and Tailwind**.  
-- 📫 How to reach me: **[mohamadekhalili100100@gmail.com](mailto:mohamadekhalili100100@gmail.com)**.  
+Hello! I'm **Mohamad Khalili**, a passionate frontend developer specialized in **Vue.js**, **Nuxt.js**, and modern web development practices.
+
+- 🔭 Currently exploring **Vue 3 & Nuxt 3** for full-stack-like experiences (SPA, SSR, and SSG).  
+- 🌱 Improving my skills in **advanced animations & state management** (Pinia, Vuex).  
+- 🤝 Looking to collaborate on **open source** web projects that push the boundaries of UI/UX.  
+- 💬 Ask me about **Vue.js, Nuxt.js, TypeScript, Vuetify, or Tailwind CSS** — I'd love to help!  
+- 📫 Reach me at: **[mohamadekhalili100100@gmail.com](mailto:mohamadekhalili100100@gmail.com)**.  
 - ⚡ Fun fact: **I spend more time reading code than writing it!**  
+- ✨ I believe in continuous learning and sharing knowledge with the developer community.
 
-من **محمد خلیلی** هستم و چندین سال است که در حوزه‌ی فرانت‌اند فعالیت می‌کنم. عاشق یادگیری تکنولوژی‌های جدید هستم و همیشه دوست دارم مهارت‌های جدیدی کسب کنم. باور دارم که دنیای برنامه‌نویسی همواره در حال رشد است و هر روز می‌تواند چالش‌های تازه‌ای برای ما داشته باشد. به همین دلیل سعی می‌کنم دانش خودم را به روز نگه دارم و در پروژه‌های متن‌باز مشارکت کنم.
+I have been in the world of web development for several years, always trying to keep up with the latest tools and trends. My curiosity drives me to explore new frameworks, libraries, and best practices. Whether it’s building interactive SPAs or crafting highly optimized SSR sites, I'm excited to dive deep into the details and deliver efficient, user-friendly applications.
 
 ---
 
@@ -73,126 +75,147 @@
 
 <p align="center">
   <!-- Vue -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="70" height="70"/>
   <!-- Nuxt -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt" width="70" height="70"/>
   <!-- Vuetify -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="70" height="70"/>
   <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
   <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="70" height="70"/>
   <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70"/>
   <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
-  <!-- JS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
 </p>
 
 <div align="center">
-  <strong>Other Tools & Skills:</strong> Git, ESLint, Prettier, Webpack, RESTful APIs, Figma, Agile & Scrum
+  <strong>Other Tools & Skills:</strong> Git, ESLint, Prettier, Webpack, Vite, RESTful APIs, Figma, Scrum & Agile
 </div>
 
 ---
 
-## My Dev Journey
+## My Development Journey
 
-> "The journey of a thousand lines of code begins with a single `console.log()`."  
+> *"The journey of a thousand lines of code begins with a single `console.log()`."*  
 
-- **2019**: Started learning basic HTML, CSS, JavaScript.  
-- **2020**: Got into Vue.js (v2) & Nuxt.js (v2). Built my first real-world SPA.  
-- **2021**: Deep dived into TypeScript and state management (Vuex, Pinia).  
-- **2022**: Shifted to Vue 3 & Nuxt 3. Explored Tailwind CSS and advanced UI/UX concepts.  
-- **2023 & Beyond**: Continuing to refine my animations, SSR/SSG in Nuxt, and aiming to contribute to larger open source projects.
+- **2019**: Started with basic HTML, CSS, and JavaScript. Fell in love with coding.  
+- **2020**: Moved to Vue.js (v2) & Nuxt.js (v2). Created my first commercial SPA for a local business.  
+- **2021**: Expanded knowledge of TypeScript, explored different state management patterns, contributed to small open source projects.  
+- **2022**: Shifted focus to Vue 3 & Nuxt 3, diving deeper into SSR, SSG, and serverless deployment. Learned Tailwind CSS for rapid UI building.  
+- **2023 & Beyond**: Aiming to contribute more to open source, refine advanced animations, accessibility, and focus on performance optimizations.  
 
-همواره باور دارم که مسیر یادگیری پایانی ندارد و هر روز می‌توان چیز تازه‌ای یاد گرفت. از تجربه‌های جدید لذت می‌برم و در تلاش هستم که در پروژه‌های کوچک و بزرگ، ضمن یادگیری، دانسته‌هایم را هم به اشتراک بگذارم.
+I firmly believe that learning never stops in the tech world. Each year, I strive to add new tools to my arsenal, refine my existing skills, and share knowledge through open source contributions and community support.
+
+---
+
+## Featured Projects
+
+Below are some of the projects I've been working on or have contributed to:
+
+1. **My Nuxt 3 Starter** - A boilerplate for quickly setting up a Nuxt 3 project with Tailwind, TypeScript, and ESLint/Prettier.
+2. **Vue Hooks Library** - An experimental collection of hooks for Vue 3 (similar to React Hooks concept).
+3. **Nuxt Community Modules** - Contributing to modules that enhance the Nuxt ecosystem.
+
+If you're interested in checking out more, feel free to browse [my repositories](https://github.com/mohamadkhalili?tab=repositories).
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <!-- کارت وضعیت گیت‌هاب -->
+  <!-- GitHub Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&locale=en&theme=tokyonight" 
-       alt="mohamadkhalili" 
-       height="180em"/>
+    src="https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&locale=en&theme=tokyonight" 
+    alt="mohamadkhalili" 
+    height="180em"
+  />
   
-  <!-- کارت استریک گیت‌هاب -->
+  <!-- GitHub Streak -->
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkhalili&theme=tokyonight" 
-       alt="mohamadkhalili" 
-       height="180em"/>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkhalili&theme=tokyonight" 
+    alt="mohamadkhalili" 
+    height="180em"
+  />
 </div>
 
 <div align="center">
-  <!-- کارت زبان‌های برتر -->
+  <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadkhalili&layout=compact&theme=tokyonight" 
-       alt="Top Langs" 
-       height="150em"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadkhalili&layout=compact&theme=tokyonight"
+    alt="Top Langs"
+    height="150em"
+  />
 </div>
 
 ---
 
-## Open Source Works
-در حال حاضر بر روی چند پروژه متن‌باز مشارکت می‌کنم یا قصد مشارکت دارم:
-1. **[Awesome-Vue-Resources](#)**: مجموعه‌ای از لینک‌ها و منابع مفید برای Vue.
-2. **[Nuxt-Community-Modules](#)**: ماژول‌های جالب برای Nuxt.
-3. **[Tailwind-Plugins](#)**: پلاگین‌هایی برای Tailwind.
+## Contributions & Open Source
 
-> اگر پروژه‌ای دارید که نیاز به کمک یک توسعه‌دهنده فرانت‌اند دارد، حتماً در بخش Issue یا Pull Request به من اطلاع دهید.
+I’m always up for contributing to innovative open source projects — especially those related to Vue.js, Nuxt.js, or frontend tooling.  
+Feel free to tag me in an issue or drop me a line if you think I can be of help.
+
+- **[Awesome-Vue-Resources](#)**: A curated list of useful Vue.js tutorials and resources.  
+- **[Community Nuxt Modules](#)**: Enhancing Nuxt with interesting modules.  
+- **[Tailwind Plugins](#)**: Custom plugins for Tailwind CSS to handle various advanced utility classes.
+
+If you have a cool project you’d like me to check out, just open an issue or send me a message!
 
 ---
 
 ## Activity Graph
-<!-- برای نمایش نمودار فعالیت باید سرویس vercel یا سرویس مربوطه فعال باشد -->
+
 <div align="center">
-  <img 
-       src="https://github-readme-activity-graph.cyclic.app/graph?username=mohamadkhalili&theme=react-dark" 
-       alt="Activity Graph"/>
+  <!-- GitHub Readme Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=mohamadkhalili&theme=react-dark"
+    alt="Activity Graph"
+  />
 </div>
 
-> این نمودار فعالیت‌ها و مشارکت‌های من در گیت‌هاب را در بازه زمانی اخیر نشان می‌دهد.
+> This graph shows a quick overview of my contributions and collaborations in recent times.
 
 ---
 
 ## GitHub Trophies
-<!-- برای نمایش تروفی‌ها می‌توانید استایل و تم‌های مختلف استفاده کنید -->
+
 <div align="center">
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=mohamadkhalili&theme=onedark&row=1&column=7" 
-       alt="GitHub Trophies" />
+  <!-- GitHub Profile Trophy -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mohamadkhalili&theme=onedark&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </div>
 
-> این تروفی‌ها صرفاً به صورت نمادین نشان می‌دهد که شما در گیت‌هاب چقدر فعال هستید!
+> These trophies are a fun representation of my GitHub activity and milestones.
 
 ---
 
 ## Support & Sponsor
 
-اگر مایلید از کارهای من حمایت کنید، می‌توانید از طریق راه‌های زیر اقدام کنید:
+If you find my work helpful, consider supporting me:
 
 <p align="center">
-  <!-- Ko-Fi -->
-  <a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy me a coffee" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Patreon -->
-  <a href="https://www.patreon.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" height="40" alt="Patreon" />
+  <!-- Ko-fi -->
+  <a href="https://ko-fi.com/mkh247610" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Buy me a Coffee at ko-fi.com" />
   </a>
 </p>
 
-اگر به هر دلیلی دوست دارید حامی مالی یا اسپانسر شوید، می‌توانید از طریق [ایمیل](mailto:mohamadekhalili100100@gmail.com) با من مکاتبه کنید.
+Your support helps me dedicate more time to open source contributions and making valuable tools for the community. Thank you for your generosity!
 
 ---
 
 ## How to Reach Me
 
 <div align="center">
+  <a href="mailto:mohamadekhalili100100@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohamad-khalili-b71949204" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45"/>
   </a>
@@ -200,25 +223,25 @@
   <a href="https://www.npmjs.com/~mdakh" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="80" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohamadekhalili100100@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45"/>
-  </a>
 </div>
 
 ---
 
-## Credits & Last Words
+## Extras & Fun Facts
+
+- I love **debugging** — weirdly satisfying to find that one pesky bug!
+- A big fan of **clean code** and well-structured projects.
+- Coffee is my fuel; I rarely write code without a cup nearby.
+- Outside of coding, I enjoy **music**, **gaming**, and exploring new **tech gadgets**.
+
+<p align="center">
+  <em>"Strive not to be a success, but rather to be of value." – Albert Einstein</em>
+</p>
 
 <p align="center">
   Made with 
   <img src="https://cdn.jsdelivr.net/gh/ionic-team/ionicons@5.5.2/src/svg/heart.svg" width="20" height="20" alt="love"/>
-  by <strong>Mohamad Khalili</strong>.
+  by <strong>Mohamad Khalili</strong> - Thank You for Visiting!
 </p>
 
-<p align="center">
-  <em>"Strive for progress, not perfection."</em><br/>
-  <strong>Keep coding and keep smiling!</strong>
-</p>
-
-<!-- پایان -->
+<!-- End of README -->
