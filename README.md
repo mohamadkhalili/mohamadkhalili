@@ -9,18 +9,10 @@
 #############################################################
 -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=34&center=true&vCenter=true&width=800&height=70&lines=Hello+World!+I'm+Mohamad+Khalili+%F0%9F%91%8B;A+Frontend+Dev+and+Vue.js+Enthusiast;Welcome+to+My+GitHub+Profile...">
+</h1>
 
-<div align="center">
-  <!-- Optionally, replace with a larger GIF or an image of your choice -->
-  <a href="https://github.com/mohamadkhalili">
-    <img 
-      src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-      alt="banner"
-      width="800"
-      style="border-radius: 10px;"
-    />
-  </a>
-</div>
 
 <div align="center">
   <!-- Profile Views -->
