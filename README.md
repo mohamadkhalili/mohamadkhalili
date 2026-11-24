@@ -1,227 +1,211 @@
 <!--
-#############################################################
-#   __  __        _                                         #
-#  |  \/  |  ___  | |  ___   _ _   _ _   ___  _ __   ___     #
-#  | |\/| | / _ \ | | / -_) | '_| | '_| / -_)| '  \ / _ \    #
-#  |_|  |_| \___/ |_| \___| |_|   |_|   \___||_|_|_|\___/    #
-#                                                           #
-#    Make it longer, fancier, and all in English            #
-#############################################################
+  MOHAMAD KHALILI / @mohamadkhalili
+  Personal GitHub profile — Midnight Emerald edition
+  A single-file README: no additional assets or workflow required.
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=34&center=true&vCenter=true&width=800&height=70&lines=Hello+World!+I'm+Mohamad+Khalili+%F0%9F%91%8B;A+Frontend+Dev+and+Vue.js+Enthusiast;Welcome+to+My+GitHub+Profile...">
+  <a href="https://github.com/mohamadkhalili">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:091820,50:12352F,100:076B4D&amp;height=220&amp;section=header&amp;text=Mohamad%20Khalili&amp;fontSize=54&amp;fontColor=F0FFF8&amp;fontAlignY=38&amp;desc=FULL-STACK%20DEVELOPER%20%20%2F%20%20VUE%20%2B%20NUXT&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Mohamad Khalili — Full-stack Developer, Vue and Nuxt" />
+  </a>
 </h1>
 
-
 <div align="center">
-  <!-- Profile Views -->
-  <a href="https://github.com/mohamadkhalili">
-    <img src="https://komarev.com/ghpvc/?username=mohamadkhalili&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/Vue.js-2%20%7C%203-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Nuxt.js-2%20%7C%203-00dc82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-3%20%7C%204-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img 
-  src="https://img.shields.io/badge/Vuetify-2%20%7C%203-1867c0?style=flat&logo=vuetify&logoColor=white" 
-  alt="Vuetify 2 & 3" 
-/>
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952b3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=1100&amp;color=3DDC97&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Building+with+Vue+%26+Nuxt;Type-safe+code.+Thoughtful+UI.;Making+the+web+a+little+better." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=1100&amp;color=117D45&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Building+with+Vue+%26+Nuxt;Type-safe+code.+Thoughtful+UI.;Making+the+web+a+little+better." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=21&amp;duration=3500&amp;pause=1100&amp;color=117D45&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Building+with+Vue+%26+Nuxt;Type-safe+code.+Thoughtful+UI.;Making+the+web+a+little+better." alt="Building with Vue and Nuxt. Type-safe code. Thoughtful UI." />
+  </picture>
+
+  <p><strong>Full-stack developer</strong> &nbsp;·&nbsp; Vue &amp; Nuxt specialist &nbsp;·&nbsp; Open-source package creator</p>
+
+  <a href="https://www.linkedin.com/in/mohamad-khalili-b71949204"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamadekhalili100100@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Send me an email" /></a>
+  <a href="https://www.npmjs.com/~mdakh"><img src="https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&amp;logo=npm&amp;logoColor=CB3837" alt="My npm packages" /></a>
+  <a href="https://github.com/mohamadkhalili?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="My GitHub repositories" /></a>
+
+  <br />
+
+  <a href="https://github.com/mohamadkhalili"><img src="https://komarev.com/ghpvc/?username=mohamadkhalili&amp;label=Profile%20views&amp;color=168A55&amp;style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/mohamadkhalili?tab=followers"><img src="https://img.shields.io/github/followers/mohamadkhalili?label=Followers&amp;style=flat-square&amp;color=168A55&amp;labelColor=161B22&amp;logo=github" alt="GitHub followers" /></a>
+  <img src="https://img.shields.io/badge/Coding%20since-2019-168A55?style=flat-square&amp;labelColor=161B22" alt="Coding since 2019" />
 </div>
 
----
+## 01 / Behind the code
 
-## 🔖 Table of Contents
-1. [Who Am I?](#who-am-i)
-2. [Tech Stack & Tools](#tech-stack--tools)
-3. [My Development Journey](#my-development-journey)
-4. [Featured Projects](#featured-projects)
-5. [GitHub Stats](#github-stats)
-6. [Contributions & Open Source](#contributions--open-source)
-7. [Activity Graph](#activity-graph)
-8. [GitHub Trophies](#github-trophies)
-9. [Support & Sponsor](#support--sponsor)
-10. [How to Reach Me](#how-to-reach-me)
-11. [Extras & Fun Facts](#extras--fun-facts)
+Hey, I'm **Mohamad Khalili** 👋
 
----
+I'm a full-stack developer with a frontend-first mindset and a particular love for the Vue ecosystem. I enjoy turning complex problems into clear, intuitive interfaces, building reusable tools, and making the code behind the experience just as elegant as the experience itself.
 
-## Who Am I?
+```ts
+const mohamad = {
+  alias: 'mdakh',
+  role: 'Full-stack Developer',
+  primaryStack: ['Vue', 'Nuxt', 'TypeScript'],
+  building: ['Web applications', 'Reusable composables', 'npm packages'],
+  exploring: ['Web performance', 'Advanced motion', 'State architecture'],
+  openTo: ['Open-source collaboration', 'Interesting problems'],
+  fueledBy: ['Curiosity', 'Coffee', 'One more refactor'],
+} as const
+```
 
-Hello! I'm **Mohamad Khalili**, a passionate frontend developer specialized in **Vue.js**, **Nuxt.js**, and modern web development practices.
+My approach: **make it work, make it clear, make it feel great.**
 
-- 🔭 Currently exploring **Vue 3 & Nuxt 3** for full-stack-like experiences (SPA, SSR, and SSG).  
-- 🌱 Improving my skills in **advanced animations & state management** (Pinia, Vuex).  
-- 🤝 Looking to collaborate on **open source** web projects that push the boundaries of UI/UX.  
-- 💬 Ask me about **Vue.js, Nuxt.js, TypeScript, Vuetify, or Tailwind CSS** — I'd love to help!  
-- 📫 Reach me at: **[mohamadekhalili100100@gmail.com](mailto:mohamadekhalili100100@gmail.com)**.  
-- ⚡ Fun fact: **I spend more time reading code than writing it!**  
-- ✨ I believe in continuous learning and sharing knowledge with the developer community.
+## 02 / My developer toolkit
 
-I have been in the world of web development for several years, always trying to keep up with the latest tools and trends. My curiosity drives me to explore new frameworks, libraries, and best practices. Whether it’s building interactive SPAs or crafting highly optimized SSR sites, I'm excited to dive deep into the details and deliver efficient, user-friendly applications.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>⚡ Core stack</h3>
+      <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js&amp;theme=dark" alt="Vue, Nuxt, TypeScript, JavaScript" />
+      <br /><sub>Vue · Nuxt · TypeScript · JavaScript</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🎨 UI &amp; design</h3>
+      <img src="https://skillicons.dev/icons?i=tailwind,vuetify,bootstrap,figma&amp;theme=dark" alt="Tailwind CSS, Vuetify, Bootstrap, Figma" />
+      <br /><sub>Tailwind CSS · Vuetify · Bootstrap · Figma</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🧩 Web &amp; state</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,pinia&amp;theme=dark" alt="HTML, CSS, Pinia" />
+      <br /><sub>HTML · CSS · Pinia · Vuex · Vue Router</sub>
+      <br /><sub>REST APIs · SPA · SSR · SSG</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🛠️ Build &amp; workflow</h3>
+      <img src="https://skillicons.dev/icons?i=vite,webpack,git,github,npm,pnpm&amp;theme=dark&amp;perline=6" width="260" alt="Vite, Webpack, Git, GitHub, npm, pnpm" />
+      <br /><sub>Vite · Webpack · Git · GitHub · npm · pnpm</sub>
+      <br /><sub>ESLint · Prettier · Agile</sub>
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Composition%20API-0D1117?style=flat-square&amp;logo=vuedotjs&amp;logoColor=42B883" alt="Composition API" />
+  <img src="https://img.shields.io/badge/Server--side%20Rendering-0D1117?style=flat-square&amp;logo=nuxt&amp;logoColor=00DC82" alt="Server-side rendering" />
+  <img src="https://img.shields.io/badge/Type%20Safety-0D1117?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="Type safety" />
+  <img src="https://img.shields.io/badge/Component--driven%20UI-0D1117?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Component-driven UI" />
+</div>
 
-## Tech Stack & Tools
+## 03 / From my GitHub to your `node_modules`
+
+I like building the little things that make developing bigger things easier. Here are a few of my Vue and Nuxt projects.
+
+<table>
+  <tr>
+    <td width="61%" valign="top">
+      <h3>🟢 <a href="https://github.com/mohamadkhalili/vue3-use-route-query">vue3-use-route-query</a></h3>
+      <p>A strongly typed composable for keeping Vue state and URL query parameters in sync, with support for multiple data types, Vue Router, and Nuxt.</p>
+      <code>Vue</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Composables</code>
+    </td>
+    <td width="39%" align="center" valign="middle">
+      <a href="https://www.npmjs.com/package/vue3-use-route-query"><img src="https://img.shields.io/npm/v/vue3-use-route-query?style=flat-square&amp;logo=npm&amp;label=version&amp;color=168A55&amp;labelColor=161B22" alt="vue3-use-route-query npm version" /></a><br />
+      <a href="https://www.npmjs.com/package/vue3-use-route-query"><img src="https://img.shields.io/npm/dm/vue3-use-route-query?style=flat-square&amp;color=168A55&amp;labelColor=161B22" alt="vue3-use-route-query monthly downloads" /></a><br /><br />
+      <a href="https://github.com/mohamadkhalili/vue3-use-route-query">Source &amp; docs ↗</a> · <a href="https://www.npmjs.com/package/vue3-use-route-query">npm ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🟩 <a href="https://github.com/mohamadkhalili/nuxt3-use-route-query">nuxt3-use-route-query</a></h3>
+      <p>A Nuxt-focused utility for reactively reading and updating route queries, with configurable navigation and typed values.</p>
+      <code>Nuxt</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Routing</code>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.npmjs.com/package/nuxt3-use-route-query"><img src="https://img.shields.io/npm/v/nuxt3-use-route-query?style=flat-square&amp;logo=npm&amp;label=version&amp;color=168A55&amp;labelColor=161B22" alt="nuxt3-use-route-query npm version" /></a><br />
+      <a href="https://www.npmjs.com/package/nuxt3-use-route-query"><img src="https://img.shields.io/npm/dm/nuxt3-use-route-query?style=flat-square&amp;color=168A55&amp;labelColor=161B22" alt="nuxt3-use-route-query monthly downloads" /></a><br /><br />
+      <a href="https://github.com/mohamadkhalili/nuxt3-use-route-query">Source &amp; docs ↗</a> · <a href="https://www.npmjs.com/package/nuxt3-use-route-query">npm ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>💬 <a href="https://github.com/mohamadkhalili/vue3-snackbar-reactive">vue3-snackbar-reactive</a></h3>
+      <p>A flexible, reactive notification component for Vue applications, designed to make feedback and status messages simple.</p>
+      <code>Vue</code> &nbsp; <code>TypeScript</code> &nbsp; <code>UI Components</code>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.npmjs.com/package/vue3-snackbar-reactive"><img src="https://img.shields.io/npm/v/vue3-snackbar-reactive?style=flat-square&amp;logo=npm&amp;label=version&amp;color=168A55&amp;labelColor=161B22" alt="vue3-snackbar-reactive npm version" /></a><br />
+      <a href="https://www.npmjs.com/package/vue3-snackbar-reactive"><img src="https://img.shields.io/npm/dm/vue3-snackbar-reactive?style=flat-square&amp;color=168A55&amp;labelColor=161B22" alt="vue3-snackbar-reactive monthly downloads" /></a><br /><br />
+      <a href="https://github.com/mohamadkhalili/vue3-snackbar-reactive">Source &amp; docs ↗</a> · <a href="https://www.npmjs.com/package/vue3-snackbar-reactive">npm ↗</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <!-- Vue -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="70" height="70"/>
-  <!-- Nuxt -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt" width="70" height="70"/>
-  <!-- Vuetify -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="70" height="70"/>
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="70" height="70"/>
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70"/>
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70"/>
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
+  <a href="https://github.com/mohamadkhalili?tab=repositories"><strong>Explore all repositories →</strong></a> &nbsp;·&nbsp; <a href="https://www.npmjs.com/~mdakh"><strong>Explore my npm profile →</strong></a>
 </p>
 
-<div align="center">
-  <strong>Other Tools & Skills:</strong> Git, ESLint, Prettier, Webpack, Vite, RESTful APIs, Figma, Scrum & Agile
-</div>
-
----
-
-## My Development Journey
-
-> *"The journey of a thousand lines of code begins with a single `console.log()`."*  
-
-- **2019**: Started with basic HTML, CSS, and JavaScript. Fell in love with coding.  
-- **2020**: Moved to Vue.js (v2) & Nuxt.js (v2). Created my first commercial SPA for a local business.  
-- **2021**: Expanded knowledge of TypeScript, explored different state management patterns, contributed to small open source projects.  
-- **2022**: Shifted focus to Vue 3 & Nuxt 3, diving deeper into SSR, SSG, and serverless deployment. Learned Tailwind CSS for rapid UI building.  
-- **2023 & Beyond**: Aiming to contribute more to open source, refine advanced animations, accessibility, and focus on performance optimizations.  
-
-I firmly believe that learning never stops in the tech world. Each year, I strive to add new tools to my arsenal, refine my existing skills, and share knowledge through open source contributions and community support.
-
----
-
-## Featured Projects
-
-Below are some of the projects I've been working on or have contributed to:
-
-1. **My Nuxt 3 Starter** - A boilerplate for quickly setting up a Nuxt 3 project with Tailwind, TypeScript, and ESLint/Prettier.
-2. **Vue Hooks Library** - An experimental collection of hooks for Vue 3 (similar to React Hooks concept).
-3. **Nuxt Community Modules** - Contributing to modules that enhance the Nuxt ecosystem.
-
-If you're interested in checking out more, feel free to browse [my repositories](https://github.com/mohamadkhalili?tab=repositories).
-
----
-
-## GitHub Stats
+## 04 / GitHub in motion
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohamadkhalili&show_icons=true&locale=en&theme=tokyonight" 
-    alt="mohamadkhalili" 
-    height="180em"
-  />
-  
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadkhalili&theme=tokyonight" 
-    alt="mohamadkhalili" 
-    height="180em"
-  />
-</div>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadkhalili&layout=compact&theme=tokyonight"
-    alt="Top Langs"
-    height="150em"
-  />
-</div>
-
----
-
-## Contributions & Open Source
-
-I’m always up for contributing to innovative open source projects — especially those related to Vue.js, Nuxt.js, or frontend tooling.  
-Feel free to tag me in an issue or drop me a line if you think I can be of help.
-
-- **[Awesome-Vue-Resources](#)**: A curated list of useful Vue.js tutorials and resources.  
-- **[Community Nuxt Modules](#)**: Enhancing Nuxt with interesting modules.  
-- **[Tailwind Plugins](#)**: Custom plugins for Tailwind CSS to handle various advanced utility classes.
-
-If you have a cool project you’d like me to check out, just open an issue or send me a message!
-
----
-
-## Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamadkhalili&bg_color=2D3E50&color=52B983&line=52B983&point=F4F8FA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mohamadkhalili&theme=dracula"
-    alt="GitHub Trophies"
-  />
-</div>
-
----
-
-## Support & Sponsor
-
-If you find my work helpful, consider supporting me:
-
-<p align="center">
-  <!-- Ko-fi -->
-  <a href="https://ko-fi.com/mkh247610" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Buy me a Coffee at ko-fi.com" />
+  <a href="https://github.com/mohamadkhalili?tab=overview">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamadkhalili&amp;theme=github_dark&amp;title_color=3DDC97&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;icon_color=3DDC97&amp;hide_logo=true&amp;animation=rise" alt="Mohamad's GitHub statistics" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamadkhalili&amp;theme=github_dark&amp;title_color=3DDC97&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;animation=draw" alt="Languages in Mohamad's public GitHub commits" />
   </a>
-</p>
-
-Your support helps me dedicate more time to open source contributions and making valuable tools for the community. Thank you for your generosity!
-
----
-
-## How to Reach Me
-
-<div align="center">
-  <a href="mailto:mohamadekhalili100100@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45"/>
+  <br />
+  <a href="https://github.com/mohamadkhalili?tab=overview">
+    <img width="97%" src="https://streak-stats.demolab.com/?user=mohamadkhalili&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=3DDC97&amp;fire=3DDC97&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=3DDC97&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;card_width=700&amp;card_height=180&amp;border_radius=8" alt="GitHub contribution streak" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mohamad-khalili-b71949204" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45"/>
+  <br />
+  <a href="https://github.com/mohamadkhalili?tab=overview">
+    <img width="97%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=mohamadkhalili&amp;bg_color=0D1117&amp;title_color=3DDC97&amp;color=8B949E&amp;line=3DDC97&amp;point=F0F6FC&amp;area=true&amp;area_color=168A55&amp;border_color=30363D&amp;radius=8&amp;custom_title=The%20last%2031%20days" alt="GitHub contribution activity over the last 31 days" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~mdakh" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="80" />
-  </a>
+  <br />
+  <sub>Live public activity · <a href="https://github.com/mohamadkhalili?tab=overview">View full contribution history</a></sub>
 </div>
 
+## 05 / Always building, always learning
+
+- **Engineering:** maintainable architecture, clear types, and reusable components.
+- **Experience:** responsive layouts, accessibility, meaningful motion, and performance.
+- **Community:** sharing what I've learned, improving my libraries, and contributing to the Vue ecosystem.
+
+<details>
+  <summary><strong>My journey from the first console.log() to open source</strong></summary>
+
+  | Year | The next step |
+  | :--- | :--- |
+  | 2019 | Started exploring HTML, CSS, and JavaScript. |
+  | 2020 | Built my first commercial SPA and discovered Vue and Nuxt. |
+  | 2021 | Embraced TypeScript, state management, and open-source collaboration. |
+  | 2022 | Moved deeper into Vue 3, Nuxt 3, SSR, SSG, and Tailwind CSS. |
+  | 2023 – Present | Building reusable libraries, creating npm packages, and refining the craft of modern web development. |
+
+</details>
+
+<details>
+  <summary><strong>Beyond the editor</strong></summary>
+
+  - I probably spend more time reading code than writing it.
+  - Debugging is oddly satisfying, especially when the fix is one line.
+  - Away from the keyboard, I enjoy music, gaming, a good coffee, and discovering new tech.
+
+</details>
+
 ---
 
-## Extras & Fun Facts
+<div align="center">
+  <h2>Let's build something worth using.</h2>
+  <p>Have a Vue or Nuxt idea, an open-source project, or a problem worth solving together?<br />I'd love to hear from you.</p>
 
-- I love **debugging** — weirdly satisfying to find that one pesky bug!
-- A big fan of **clean code** and well-structured projects.
-- Coffee is my fuel; I rarely write code without a cup nearby.
-- Outside of coding, I enjoy **music**, **gaming**, and exploring new **tech gadgets**.
+  <a href="https://www.linkedin.com/in/mohamad-khalili-b71949204"><img src="https://img.shields.io/badge/LET%27S%20CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:mohamadekhalili100100@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email me" /></a>
+  <a href="https://ko-fi.com/mkh247610"><img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FF5E5B?style=for-the-badge&amp;logo=kofi&amp;logoColor=white" alt="Support me on Ko-fi" /></a>
 
-<p align="center">
-  <em>"Strive not to be a success, but rather to be of value." – Albert Einstein</em>
-</p>
+  <p><sub>If my work has helped you, a star, an issue, a pull request, or a cup of coffee means a lot. 💚</sub></p>
+  <p><strong>Stay curious. Keep shipping.</strong><br /><sub>Made with care by Mohamad Khalili · <a href="https://github.com/mohamadkhalili">@mohamadkhalili</a></sub></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:091820,50:12352F,100:076B4D&amp;height=90&amp;section=footer" alt="" />
+</div>
 
-<p align="center">
-  Made with 
-  <img src="https://cdn.jsdelivr.net/gh/ionic-team/ionicons@5.5.2/src/svg/heart.svg" width="20" height="20" alt="love"/>
-  by <strong>Mohamad Khalili</strong> - Thank You for Visiting!
-</p>
-
-<!-- End of README -->
+<!--
+  Widget providers and documentation:
+  https://github.com/kyechan99/capsule-render
+  https://github.com/DenverCoder1/readme-typing-svg
+  https://github.com/tandpfun/skill-icons
+  https://shields.io/
+  https://github.com/vn7n24fzkq/github-profile-summary-cards
+  https://github.com/DenverCoder1/github-readme-streak-stats
+  https://github.com/ashutosh00710/github-readme-activity-graph
+  Hosted widgets rely on public service availability and may be cached.
+-->
